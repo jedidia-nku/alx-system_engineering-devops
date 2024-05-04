@@ -1,5 +1,1 @@
-#!/usr/bin/env bash
-# make a shorter script
-sed -i 's/8080/80/g' /etc/nginx/sites-enabled/default
-service nginx start
-rm /run/nginx.pid
+https://medium.com/@didiernkunzumwami/a-schema-illustrating-the-flow-of-the-request-created-when-you-type-https-www-google-com-bb2af6ca1b5b
