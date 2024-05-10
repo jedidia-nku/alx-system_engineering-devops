@@ -1,9 +1,12 @@
 ![depositphotos_45550465-stock-photo-cocktail-dog](https://github.com/jedidia-nku/alx-system_engineering-devops/assets/131678447/ff29d579-6077-414b-bfe1-40e4727c6012)
 
 Issue Summary
+
     1.Duration: The outage lasted from May 4, 2024, 14:00 UTC to May 4, 2024, 16:30 UTC.
     
-    2.Impact: A significant slowdown and eventual unavailability of our e-commerce platform, affecting approximately 68% of our users during peak hours. Users experienced timeouts and slow loading times which prevented order completion.
+    2.Impact: A significant slowdown and eventual unavailability of our e-commerce platform, 
+    affecting approximately 68% of our users during peak hours. Users experienced timeouts 
+    and slow loading times which prevented order completion.
     
     3.Root Cause: A sudden spike in traffic due to a promotional campaign led to an overload of the database servers, which were not scaled to handle such load.
 
