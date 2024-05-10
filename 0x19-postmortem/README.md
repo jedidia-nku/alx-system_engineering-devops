@@ -56,8 +56,8 @@ To prevent future incidents of this nature, the following steps have been identi
     3. Improve Monitoring: Enhance monitoring tools to provide earlier warnings of
     unusual spikes in load or performance degradation.
 
-    4. Database Optimization: Schedule regular reviews of database performance and query optimization 
-    to ensure efficient handling of requests.
+    4. Database Optimization: Schedule regular reviews of database performance and 
+    query optimization to ensure efficient handling of requests.
 
     5. Staff Training: Increase training for the engineering team on emergency response and 
     rapid scaling techniques.
