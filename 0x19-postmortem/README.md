@@ -47,14 +47,14 @@ Corrective and Preventative Measures
 
 To prevent future incidents of this nature, the following steps have been identified:
 
-    1. Review and Enhance Scaling Policies: Adjust autoscaling triggers and limits for database 
-    resources based on new traffic patterns and predictions.
+    1. Review and Enhance Scaling Policies: Adjust autoscaling triggers and limits for
+    database resources based on new traffic patterns and predictions.
 
-    2. Capacity Planning: Conduct a thorough review of current capacity and perform stress testing 
-    on our infrastructure to identify other potential bottlenecks.
+    2. Capacity Planning: Conduct a thorough review of current capacity and perform 
+    stress testing on our infrastructure to identify other potential bottlenecks.
 
-    3. Improve Monitoring: Enhance monitoring tools to provide earlier warnings of unusual spikes 
-    in load or performance degradation.
+    3. Improve Monitoring: Enhance monitoring tools to provide earlier warnings of
+    unusual spikes in load or performance degradation.
 
     4. Database Optimization: Schedule regular reviews of database performance and query optimization 
     to ensure efficient handling of requests.
