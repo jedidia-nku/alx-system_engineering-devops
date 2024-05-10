@@ -62,5 +62,5 @@ To prevent future incidents of this nature, the following steps have been identi
     5. Staff Training: Increase training for the engineering team on emergency response and 
     rapid scaling techniques.
 
-By implementing these measures, we aim to increase our resilience against unforeseen surges in demand and 
-ensure high availability and performance for our users.
+By implementing these measures, we aim to increase our resilience against unforeseen surges 
+in demand and ensure high availability and performance for our users.
